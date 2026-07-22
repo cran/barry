@@ -1,9 +1,9 @@
-d31992c4a1208436946f1afdc1e04020 *DESCRIPTION
+e517d0ca49a29958385f51e95d26d1ec *DESCRIPTION
 ae567998859568028026801496da0cff *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-7401f9707c8367a21f1845a8466ba359 *NEWS.md
+41f4b1ba33eec8f9fdf7e6618ec4283c *NEWS.md
 3592bcecba9562ff21d09e3ed3c54ce8 *R/barry-package.R
-80129bca55da7a04d545c269f955c173 *README.md
+d4fb4e89d8c186e03194526441a27f31 *README.md
 4d4754d25fabbbac4d41fda49d6131cc *inst/include/barry/barray-bones.hpp
 32c01c52e043435fe3a1d9eb87ac39f9 *inst/include/barry/barray-iterator.hpp
 533e0b40642abde560fc19ae73316704 *inst/include/barry/barray-meat-operators.hpp
@@ -24,7 +24,7 @@ ffebc1d1574ff32320003ead7225d332 *inst/include/barry/barrayvector-meat.hpp
 8b8e49c30126f6ba1ed7dad60c15a78d *inst/include/barry/barry-configuration.hpp
 e9144fc669a7d852a60b32bfe8656ea3 *inst/include/barry/barry-debug.hpp
 a07ef983dfc6b98cefabc536f456c220 *inst/include/barry/barry-macros.hpp
-5bb80beddaf015b01751c730a20f3658 *inst/include/barry/barry.hpp
+09a18272cf8a91ee02aef7d08d455331 *inst/include/barry/barry.hpp
 4525b3208bf64840d464a441c80374b2 *inst/include/barry/cell-bones.hpp
 2f8b2997b093e14a95d109bb63c4b319 *inst/include/barry/cell-meat.hpp
 2ca81c01f96317f567848fc180d04736 *inst/include/barry/col-bones.hpp
@@ -32,13 +32,13 @@ a07ef983dfc6b98cefabc536f456c220 *inst/include/barry/barry-macros.hpp
 6f3f02392338d586b6f1a564ddbad92a *inst/include/barry/counters-meat.hpp
 4f814d99ea006f690293902726cff847 *inst/include/barry/counters/network-css.hpp
 9bd257d2136f9239124ec6203c6e723c *inst/include/barry/counters/network.hpp
-11f3db290c30441417b6c47a9acc685b *inst/include/barry/freqtable.hpp
+c230ad2d68ec194e9a4ad95eb0831e2f *inst/include/barry/freqtable.hpp
 8f8c5b12879ad0e5497c9324077b8f8b *inst/include/barry/model-bones.hpp
-f493e3e86eda91fcad7b1e757d430ce6 *inst/include/barry/model-meat.hpp
+af2b402eea6324fee094ec9a3952c278 *inst/include/barry/model-meat.hpp
 5b99c272019c4240cae0685e0f488f0d *inst/include/barry/models/defm.hpp
 9b93d06440226dedc226bf92d0deba61 *inst/include/barry/models/defm/counters.hpp
 946515aa116585c837494fe1e23a80ae *inst/include/barry/models/defm/defm-bones.hpp
-35f4b1e45b2b8dbc5c447bd3baefe6d5 *inst/include/barry/models/defm/defm-meat.hpp
+faed65c1894ca23038a883ced486a891 *inst/include/barry/models/defm/defm-meat.hpp
 7ce0c28fe80536cc2edffe8c2f84bb2f *inst/include/barry/models/defm/defm-types.hpp
 5ee44359d59f1e7b976e73e3f9d64f7f *inst/include/barry/models/defm/formula.hpp
 9035945bf4ac3e09459f9bc7b58b247d *inst/include/barry/models/geese.hpp
@@ -65,6 +65,6 @@ c398e179748f1119fd05aa6615424bc5 *inst/include/barry/models/geese/geese-node-bon
 0f770ecd6003937575da745513669781 *inst/include/barry/statscounter-meat.hpp
 46995f5cebb67ff6b6139294d7910104 *inst/include/barry/support-bones.hpp
 231143f20af205406b0eb63609e43278 *inst/include/barry/support-meat.hpp
-c4ff45d823c9af650f654f9cf02472fd *inst/include/barry/typedefs.hpp
-e32ce0210cf47ad586fe2ad3b79236c1 *man/barry-package.Rd
+2ca0ef46be86607a631e052e3310da9f *inst/include/barry/typedefs.hpp
+644bf95b2b4cc5839bf35a8b6df0ce83 *man/barry-package.Rd
 a5efbb1a712e2db033fef7d9d5695fb8 *man/figures/logo.svg
