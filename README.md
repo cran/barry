@@ -2,6 +2,17 @@
 
 # barry: Your Go-To Motif Accountant (R Package) <img src="man/figures/logo.svg" width="200px" alt="barry logo" align="right">
 
+<!-- how-to-cite -->
+
+> \[!NOTE\] **How to cite barry.** If you use **barry** in published
+> work, please cite it:
+>
+> Vega Yon G. *barry: Your Go-to Motif Accountant*.
+> doi:[10.32614/CRAN.package.barry](https://doi.org/10.32614/CRAN.package.barry)
+>
+> Run `citation("barry")` in R for the BibTeX entry.
+> <!-- how-to-cite -->
+
 [![CRAN status](https://www.r-pkg.org/badges/version/barry)](https://CRAN.R-project.org/package=barry)
 [![R-CMD-check](https://github.com/USCbiostats/barryr/actions/workflows/r.yml/badge.svg)](https://github.com/USCbiostats/barryr/actions/workflows/r.yml)
 [![CRANlogs downloads](https://cranlogs.r-pkg.org/badges/grand-total/barry)](https://cran.r-project.org/package=barry)
